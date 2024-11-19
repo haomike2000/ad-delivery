@@ -1,2 +1,2 @@
 # ad-delivery
-Ad Delivery Proxy
+Ad Delivery Proxy.
